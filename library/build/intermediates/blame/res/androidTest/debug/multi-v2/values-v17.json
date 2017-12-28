@@ -4,7 +4,7 @@
             "outputFile": "C:\\Users\\xuany\\Androidws\\workspace\\util\\utilswipeback\\library\\build\\intermediates\\incremental\\mergeDebugAndroidTestResources\\merged.dir\\values-v17\\values-v17.xml",
             "map": [
                 {
-                    "source": "C:\\Users\\xuany\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\08a91439bd76e407acaa2fb9c2c4bc23\\res\\values-v17\\values-v17.xml",
+                    "source": "C:\\Users\\xuany\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\8f102b80ace64ae1e0a5d201162bce28\\res\\values-v17\\values-v17.xml",
                     "from": {
                         "startLines": "2,5,9,12,15,18,22,26,29,32,35,39,42,46",
                         "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4",
