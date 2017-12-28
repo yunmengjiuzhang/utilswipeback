@@ -1,0 +1,43 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\Users\xuany\Androidws\workspace\util\utilswipeback\library\src\main\AndroidManifest.xml:2:1-12:12
+INJECTED from C:\Users\xuany\Androidws\workspace\util\utilswipeback\library\src\main\AndroidManifest.xml:2:1-12:12
+INJECTED from C:\Users\xuany\Androidws\workspace\util\utilswipeback\library\src\main\AndroidManifest.xml:2:1-12:12
+INJECTED from C:\Users\xuany\Androidws\workspace\util\utilswipeback\library\src\main\AndroidManifest.xml:2:1-12:12
+INJECTED from C:\Users\xuany\Androidws\workspace\util\utilswipeback\library\src\main\AndroidManifest.xml:2:1-12:12
+INJECTED from C:\Users\xuany\Androidws\workspace\util\utilswipeback\library\src\main\AndroidManifest.xml:2:1-12:12
+INJECTED from C:\Users\xuany\Androidws\workspace\util\utilswipeback\library\src\main\AndroidManifest.xml:2:1-12:12
+	package
+		ADDED from C:\Users\xuany\Androidws\workspace\util\utilswipeback\library\src\main\AndroidManifest.xml:4:5-42
+		INJECTED from C:\Users\xuany\Androidws\workspace\util\utilswipeback\library\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\xuany\Androidws\workspace\util\utilswipeback\library\src\main\AndroidManifest.xml
+	android:versionName
+		ADDED from C:\Users\xuany\Androidws\workspace\util\utilswipeback\library\src\main\AndroidManifest.xml:6:11-36
+		INJECTED from C:\Users\xuany\Androidws\workspace\util\utilswipeback\library\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\xuany\Androidws\workspace\util\utilswipeback\library\src\main\AndroidManifest.xml
+	xmlns:tools
+		ADDED from C:\Users\xuany\Androidws\workspace\util\utilswipeback\library\src\main\AndroidManifest.xml:3:5-51
+	xmlns:android
+		ADDED from C:\Users\xuany\Androidws\workspace\util\utilswipeback\library\src\main\AndroidManifest.xml:2:11-69
+	tools:ignore
+		ADDED from C:\Users\xuany\Androidws\workspace\util\utilswipeback\library\src\main\AndroidManifest.xml:7:5-35
+	android:versionCode
+		ADDED from C:\Users\xuany\Androidws\workspace\util\utilswipeback\library\src\main\AndroidManifest.xml:5:11-34
+		INJECTED from C:\Users\xuany\Androidws\workspace\util\utilswipeback\library\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\xuany\Androidws\workspace\util\utilswipeback\library\src\main\AndroidManifest.xml
+application
+ADDED from C:\Users\xuany\Androidws\workspace\util\utilswipeback\library\src\main\AndroidManifest.xml:10:5-19
+uses-sdk
+INJECTED from C:\Users\xuany\Androidws\workspace\util\utilswipeback\library\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from C:\Users\xuany\Androidws\workspace\util\utilswipeback\library\src\main\AndroidManifest.xml
+INJECTED from C:\Users\xuany\Androidws\workspace\util\utilswipeback\library\src\main\AndroidManifest.xml
+INJECTED from C:\Users\xuany\Androidws\workspace\util\utilswipeback\library\src\main\AndroidManifest.xml
+INJECTED from C:\Users\xuany\Androidws\workspace\util\utilswipeback\library\src\main\AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from C:\Users\xuany\Androidws\workspace\util\utilswipeback\library\src\main\AndroidManifest.xml
+		ADDED from C:\Users\xuany\Androidws\workspace\util\utilswipeback\library\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\xuany\Androidws\workspace\util\utilswipeback\library\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from C:\Users\xuany\Androidws\workspace\util\utilswipeback\library\src\main\AndroidManifest.xml
+		ADDED from C:\Users\xuany\Androidws\workspace\util\utilswipeback\library\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\xuany\Androidws\workspace\util\utilswipeback\library\src\main\AndroidManifest.xml
