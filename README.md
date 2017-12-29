@@ -13,7 +13,7 @@
         }
     2.module的build.gradle
 
-        com.github.wangfeixixi:utilswipeback:v1.3//添加依赖
+        com.github.wangfeixixi:utilswipeback:v1.4//添加依赖
 
 完工体验：
 
