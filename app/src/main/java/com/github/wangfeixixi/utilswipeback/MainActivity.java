@@ -2,7 +2,7 @@ package com.github.wangfeixixi.utilswipeback;
 
 import android.os.Bundle;
 
-import me.imid.swipebacklayout.lib.app.SwipeBackActivity;
+import wangfei.swipeback.SwipeBackActivity;
 
 public class MainActivity extends SwipeBackActivity {
 

@@ -1,4 +1,4 @@
-me.imid.swipebacklayout.lib
+wangfei.swipeback
 int anim abc_fade_in 0x7f010001
 int anim abc_fade_out 0x7f010002
 int anim abc_grow_fade_in_from_bottom 0x7f010003

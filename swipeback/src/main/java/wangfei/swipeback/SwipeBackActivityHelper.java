@@ -1,13 +1,10 @@
-package me.imid.swipebacklayout.lib.app;
+package wangfei.swipeback;
 
 import android.app.Activity;
 import android.graphics.Color;
 import android.graphics.drawable.ColorDrawable;
 import android.view.LayoutInflater;
 import android.view.View;
-
-import me.imid.swipebacklayout.lib.SwipeBackLayout;
-import me.imid.swipebacklayout.lib.Utils;
 
 /**
  * @author Yrom

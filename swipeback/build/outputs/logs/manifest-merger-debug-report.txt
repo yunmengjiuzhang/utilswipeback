@@ -8,7 +8,7 @@ INJECTED from C:\Users\xuany\Androidws\workspace\util\utilswipeback\swipeback\sr
 INJECTED from C:\Users\xuany\Androidws\workspace\util\utilswipeback\swipeback\src\main\AndroidManifest.xml:2:1-5:47
 INJECTED from C:\Users\xuany\Androidws\workspace\util\utilswipeback\swipeback\src\main\AndroidManifest.xml:2:1-5:47
 	package
-		ADDED from C:\Users\xuany\Androidws\workspace\util\utilswipeback\swipeback\src\main\AndroidManifest.xml:4:5-42
+		ADDED from C:\Users\xuany\Androidws\workspace\util\utilswipeback\swipeback\src\main\AndroidManifest.xml:4:5-32
 		INJECTED from C:\Users\xuany\Androidws\workspace\util\utilswipeback\swipeback\src\main\AndroidManifest.xml
 		INJECTED from C:\Users\xuany\Androidws\workspace\util\utilswipeback\swipeback\src\main\AndroidManifest.xml
 	android:versionName

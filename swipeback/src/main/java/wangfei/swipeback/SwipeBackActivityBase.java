@@ -1,6 +1,5 @@
-package me.imid.swipebacklayout.lib.app;
+package wangfei.swipeback;
 
-import me.imid.swipebacklayout.lib.SwipeBackLayout;
 /**
  * @author Yrom
  */
