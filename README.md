@@ -2,16 +2,18 @@
 
 步骤：
 
-1.根build.gradle
-    allprojects {
-        repositories {
-            google()
-            jcenter()
-            maven { url 'https://jitpack.io' } //添加仓库
+    1.根build.gradle
+
+        allprojects {
+            repositories {
+                google()
+                jcenter()
+                maven { url 'https://jitpack.io' } //添加仓库
+            }
         }
-    }
-2.module的build.gradle
-    com.github.wangfeixixi:utilswipeback:v1.3//添加依赖
+    2.module的build.gradle
+
+        com.github.wangfeixixi:utilswipeback:v1.3//添加依赖
 
 完工体验：
 
