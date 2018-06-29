@@ -3,8 +3,10 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
-      <module fileurl="file://$PROJECT_DIR$/swipeback/library.iml" filepath="$PROJECT_DIR$/swipeback/library.iml" />
-      <module fileurl="file://$PROJECT_DIR$/utilswipeback.iml" filepath="$PROJECT_DIR$/utilswipeback.iml" />
+      <module fileurl="file://D:\workSpace\test\utilswipeback\swipeback\library.iml" filepath="D:\workSpace\test\utilswipeback\swipeback\library.iml" />
+      <module fileurl="file://$PROJECT_DIR$/swipeback/swipeback.iml" filepath="$PROJECT_DIR$/swipeback/swipeback.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/utilswipeback.iml" filepath="$PROJECT_DIR$/.idea/utilswipeback.iml" />
+      <module fileurl="file://D:\workSpace\test\utilswipeback\utilswipeback.iml" filepath="D:\workSpace\test\utilswipeback\utilswipeback.iml" />
     </modules>
   </component>
 </project>

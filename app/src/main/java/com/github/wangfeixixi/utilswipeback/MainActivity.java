@@ -1,10 +1,9 @@
 package com.github.wangfeixixi.utilswipeback;
 
 import android.os.Bundle;
+import android.support.v7.app.AppCompatActivity;
 
-import wangfei.swipeback.SwipeBackActivity;
-
-public class MainActivity extends SwipeBackActivity {
+public class MainActivity extends AppCompatActivity {
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {

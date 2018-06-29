@@ -1,6 +1,21 @@
 {
     "logs": [
         {
+            "outputFile": "D:\\workSpace\\test\\utilswipeback\\swipeback\\build\\intermediates\\incremental\\mergeDebugAndroidTestResources\\merged.dir\\values-v13\\values-v13.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\Fei.Wang20\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\dfabde585de1560abc881f24712d2d9b\\res\\values-v13\\values-v13.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "58",
+                        "endOffsets": "109"
+                    }
+                }
+            ]
+        },
+        {
             "outputFile": "C:\\Users\\xuany\\Androidws\\workspace\\util\\utilswipeback\\swipeback\\build\\intermediates\\incremental\\mergeDebugAndroidTestResources\\merged.dir\\values-v13\\values-v13.xml",
             "map": [
                 {
