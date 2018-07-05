@@ -6,9 +6,11 @@
     android:background="#ffffff"
     android:fitsSystemWindows="true">
 
-    <TextView
+    <Button
+        android:id="@+id/btn_slide_content"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
+        android:gravity="center"
         android:text="侧滑菜单内容" />
 
 </FrameLayout>
